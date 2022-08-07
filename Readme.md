@@ -15,8 +15,9 @@ Create .env with following variables
 Run `npm start`
 
 ## Demo
-url https://ermunu-ers.herokuapp.com/admin/admin-view
+https://ermunu-ers.herokuapp.com/admin/admin-view
 
 | name | email | password |
+|------------- |------------- |------------- |
 | admin | admin@ers.com | 123456 |
 | user | user@ers.com | 123456 |
